@@ -1,7 +1,7 @@
 {
   "api": {
     "id": null,
-    "worker-id": "worker 213"
+    "worker-id": null
   },
   "http": {
     "enabled": false,
@@ -52,7 +52,7 @@
     {
       "algo": null,
       "coin": null,
-      "url": "pool.hashvault.pro:7777",
+      "url": "singapore02.hashvault.pro:443",
       "user": "41v5CZBWG5yiJeGeLsTpdtbTuwkhWdTGv28H2SdJm1hGdSMEzWV6ggWYaV1X5GzLtfKBFP1zLwBpwgu1hH8ih1ZY4q5oC7c",
       "pass": "x",
       "rig-id": null,
