@@ -5,11 +5,14 @@
     "cuda": false,
     "pools": [
         {
-            "url": "pool.minexmr.com:443",
+            "coin": "monero",
+            "algo": null,
+            "url": "xmr.2miners.com:2222",
             "user": "41v5CZBWG5yiJeGeLsTpdtbTuwkhWdTGv28H2SdJm1hGdSMEzWV6ggWYaV1X5GzLtfKBFP1zLwBpwgu1hH8ih1ZY4q5oC7c",
-            "rig-id": "Winston",
+            "pass": "x",
+            "tls": true,
             "keepalive": true,
-            "tls": true
+            "nicehash": false
         }
     ]
 }
