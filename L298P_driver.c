@@ -1,9 +1,11 @@
+// Shield terminal variables
 byte pwmA = 10;
 byte pwmB = 11;
 byte enA = 12;
 byte enB = 13;
 byte buz = 4;
 
+// 
 void setup() {
   pinMode(pwmA, OUTPUT);
   pinMode(pwmB, OUTPUT);
